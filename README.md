@@ -53,4 +53,4 @@ To create a fully functional online art gallery, consider implementing the follo
 ### Conclusion
 Developing an online art gallery using the MERN stack involves a combination of backend and frontend development. By following the outlined steps and focusing on key features and security, you can create a robust and scalable online art gallery. If you need further guidance or have specific questions, I'm here to help.
 
-![image](https://github.com/SalwynChristopher/Online_Art_Gallery/assets/117636924/ffe3a5a9-6cee-4e68-aad7-f698bb2377aa)
+![WhatsApp Image 2024-05-01 at 21 07 30_b696eece](https://github.com/SalwynChristopher/Online_Art_Gallery/assets/117636924/e53cbec6-7e4e-4686-826e-95c21f25dc36)
