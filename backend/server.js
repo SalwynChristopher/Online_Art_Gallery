@@ -5,7 +5,7 @@ require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 const mongoose = require('mongoose');
-const middleware = require('../backend/middleware');  // Error handling middleware
+const middleware = require('./middleware');  // Error handling middleware
 
 // Create Express app
 const app = express();
